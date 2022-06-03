@@ -21,7 +21,8 @@ void main()
   print("Result = $c");
 
   var z = "some value"; // This time it becomes Strictly Typed
-  // z = 10;     // can't update the data with different type
+   //z = 10;     // can't update the data with different type
+   print(z);
 }
 
 
