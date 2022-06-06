@@ -59,7 +59,7 @@ void main() {
   // print(z2);
 
   int num = 10;
-  String name = "Pankaj";
+  String name = "Khushal";
   bool isAdmin = true;
   var abc = 20;
   print(num is! int);  // false
