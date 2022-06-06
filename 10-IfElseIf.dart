@@ -7,7 +7,7 @@ void main() {
   if (hour < 10) {
     print("Good Morning!");
   } else if (hour < 20) {
-    print("Good Day!");
+    print("Good noon!");
   } else {
     print("Good Night!");
   }
