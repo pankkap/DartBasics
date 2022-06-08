@@ -16,9 +16,13 @@ void main(){
   print(myList);
 
 
-  myList.forEach((i) {
+  myList.forEach(
+    (i) {         // Anonymous Function Call
     print(i);
-  });
+  }
+  );
 
   print(myList.runtimeType);
 }
+
+// When we call a function inside another function is known as Callback Function
